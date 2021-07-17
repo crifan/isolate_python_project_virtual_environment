@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v1.0",
+  "lastUpdate": "20210705",
+  "gitRepoName": "isolate_python_project_virtual_environment",
+  "bookName": "隔离Python项目环境：虚拟环境",
+  "bookDescription": "介绍用于隔离Python项目环境的虚拟环境，主要是virtualenv和pipenv。"
+}

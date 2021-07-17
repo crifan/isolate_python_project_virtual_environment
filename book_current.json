@@ -1,0 +1,22 @@
+{
+  "title": "隔离Python项目环境：虚拟环境",
+  "description": "介绍用于隔离Python项目环境的虚拟环境，主要是virtualenv和pipenv。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "isolate_python_project_virtual_environment"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/isolate_python_project_virtual_environment/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/isolate_python_project_virtual_environment/pdf/isolate_python_project_virtual_environment.pdf"
+    }
+  }
+}
